@@ -1,7 +1,6 @@
 body{
     font-family: 'Staatliches', cursive;
 }
-
 #title{
     text-align: center;
     border-bottom: 2px solid lightgray;
@@ -12,7 +11,6 @@ body{
     height: 250px;
     width: 450px;
 }
-
 #text{
     padding-left: 260px;
 }
